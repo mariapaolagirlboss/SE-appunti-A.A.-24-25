@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modulo 1 (Ciancarini)/2. Processi di sviluppo agili.md",
+                "file": "Modulo 2 (Succi)/2. IS.L01.P1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Processi di sviluppo agili"
+              "title": "2. IS.L01.P1"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c467c8cc243186b3",
@@ -188,10 +189,15 @@
   },
   "active": "c5f4cf865fcdf65d",
   "lastOpenFiles": [
-    "Modulo 1 (Ciancarini)/1. Il software e l'ingegneria del software.md",
-    "GLOSSARIO.md",
+    "images2/Screenshot 2025-10-29 alle 15.08.08.png",
+    "Modulo 2 (Succi)/Classe vs Tipo.md",
     "Modulo 2 (Succi)/2. IS.L01.P1.md",
+    "images2/Screenshot 2025-11-10 alle 16.42.57.png",
+    "GLOSSARIO.md",
     "DUBBI.md",
+    "Modulo 2 (Succi)/1. IS.L00.Program.md",
+    "Modulo 1 (Ciancarini)/2. Processi di sviluppo agili.md",
+    "Modulo 1 (Ciancarini)/1. Il software e l'ingegneria del software.md",
     "Corso Ingegneria del Software.md",
     "Modulo 1 (Ciancarini).md",
     "images2/Screenshot 2025-11-10 alle 14.44.49.png",
@@ -203,11 +209,8 @@
     "images2/Screenshot 2025-11-10 alle 12.21.19.png",
     "images2/Screenshot 2025-11-10 alle 12.20.46.png",
     "images2/Screenshot 2025-11-10 alle 12.20.11.png",
-    "images2/Screenshot 2025-11-10 alle 12.17.39.png",
-    "Modulo 2 (Succi)/1. IS.L00.Program.md",
     "Modulo 1 (Ciancarini)/4. Project management dei progetti software.md",
     "Modulo 1 (Ciancarini)/3. L'analisi dei requisiti software.md",
-    "Modulo 1 (Ciancarini)/2. Processi di sviluppo agili.md",
     "TagsRoutes/logMessage.md",
     "TagsRoutes/logs",
     "TagsRoutes",
