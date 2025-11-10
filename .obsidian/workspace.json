@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "2e1fe9c64cb49630",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae82a5877b3289fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d72b9c0cc57fb7c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GLOSSARIO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GLOSSARIO"
+            }
+          },
+          {
+            "id": "c5f4cf865fcdf65d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modulo 1 (Ciancarini)/2. Processi di sviluppo agili.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Processi di sviluppo agili"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ae40bab814a294e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a58c54eee833edf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4aac7954d99deb8a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dac2ac04f4e0a6eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d9f9f66ba3339c06",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c467c8cc243186b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e81d211e73a4fc75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4621d54d6f43fafb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Modulo 2 (Succi)/2. IS.L01.P1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2. IS.L01.P1"
+            }
+          },
+          {
+            "id": "5466e736f1d4f3f7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Modulo 2 (Succi)/2. IS.L01.P1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2. IS.L01.P1"
+            }
+          },
+          {
+            "id": "18519b50db1f4daf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f8dd171549b52ccb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Il software e l'ingegneria del software.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Il software e l'ingegneria del software"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "yet-another-obsidian-synchronizer:YAOS": false
+    }
+  },
+  "active": "c5f4cf865fcdf65d",
+  "lastOpenFiles": [
+    "Modulo 1 (Ciancarini)/1. Il software e l'ingegneria del software.md",
+    "GLOSSARIO.md",
+    "Modulo 2 (Succi)/2. IS.L01.P1.md",
+    "DUBBI.md",
+    "Corso Ingegneria del Software.md",
+    "Modulo 1 (Ciancarini).md",
+    "images2/Screenshot 2025-11-10 alle 14.44.49.png",
+    "images2/Screenshot 2025-11-10 alle 14.44.53.png",
+    "images2/Screenshot 2025-11-10 alle 14.21.59.png",
+    "images2/Screenshot 2025-10-29 alle 10.58.00.png",
+    "images2/Screenshot 2025-11-10 alle 12.22.24.png",
+    "images2/Screenshot 2025-11-10 alle 12.21.53.png",
+    "images2/Screenshot 2025-11-10 alle 12.21.19.png",
+    "images2/Screenshot 2025-11-10 alle 12.20.46.png",
+    "images2/Screenshot 2025-11-10 alle 12.20.11.png",
+    "images2/Screenshot 2025-11-10 alle 12.17.39.png",
+    "Modulo 2 (Succi)/1. IS.L00.Program.md",
+    "Modulo 1 (Ciancarini)/4. Project management dei progetti software.md",
+    "Modulo 1 (Ciancarini)/3. L'analisi dei requisiti software.md",
+    "Modulo 1 (Ciancarini)/2. Processi di sviluppo agili.md",
+    "TagsRoutes/logMessage.md",
+    "TagsRoutes/logs",
+    "TagsRoutes",
+    "Modulo 2 (Succi).md",
+    "Untitled.canvas",
+    "2025-11-07.md",
+    "Modulo 2 (Succi)/PPT",
+    "4. Project management dei progetti software.md",
+    "Modulo 2 (Succi)",
+    "cartella senza nome",
+    "Modulo 1 (Ciancarini)",
+    "Modulo 1 (Ciancarini)/PPT/13 pm.pdf",
+    "Modulo 1 (Ciancarini)/PPT",
+    "Excalidraw/Drawing 2025-11-06 17.12.21.excalidraw.md",
+    "Excalidraw",
+    "3. L'analisi dei requisiti software.md",
+    "2. Processi di sviluppo agili.md",
+    "1. Il software e l'ingegneria del software.md",
+    "images2"
+  ]
+}
