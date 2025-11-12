@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GLOSSARIO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GLOSSARIO"
-            }
-          },
-          {
-            "id": "c5f4cf865fcdf65d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Modulo 2 (Succi)/2. IS.L01.P1.md",
                 "mode": "source",
                 "source": false
@@ -34,9 +20,22 @@
               "icon": "lucide-file",
               "title": "2. IS.L01.P1"
             }
+          },
+          {
+            "id": "68da0494d96b30b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GLOSSARIO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GLOSSARIO"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c467c8cc243186b3",
@@ -187,28 +185,30 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "c5f4cf865fcdf65d",
+  "active": "d72b9c0cc57fb7c6",
   "lastOpenFiles": [
-    "images2/Screenshot 2025-10-29 alle 15.08.08.png",
-    "Modulo 2 (Succi)/Classe vs Tipo.md",
-    "Modulo 2 (Succi)/2. IS.L01.P1.md",
-    "images2/Screenshot 2025-11-10 alle 16.42.57.png",
+    "images2/Screenshot 2025-11-12 alle 11.54.30.png",
+    "images2/Screenshot 2025-11-12 alle 11.53.46.png",
+    "images2/Screenshot 2025-11-12 alle 11.52.15.png",
+    "images2/Screenshot 2025-11-03 alle 12.32.58.png",
+    "images2/Screenshot 2025-11-03 alle 12.29.42.png",
+    "images2/Screenshot 2025-11-12 alle 11.42.51.png",
+    "images2/Screenshot 2025-11-12 alle 11.33.41.png",
+    "images2/Screenshot 2025-11-03 alle 10.53.38.png",
+    "images2/Screenshot 2025-11-12 alle 11.26.54.png",
     "GLOSSARIO.md",
-    "DUBBI.md",
+    "Modulo 2 (Succi)/Generalization VS Extension.md",
+    "Modulo 2 (Succi)/2. IS.L01.P1.md",
+    "images2/Screenshot 2025-11-12 alle 11.09.47.png",
+    "images2/Screenshot 2025-11-12 alle 11.09.29.png",
     "Modulo 2 (Succi)/1. IS.L00.Program.md",
+    "Modulo 2 (Succi)/Classe vs Tipo.md",
+    "Corso Ingegneria del Software.md",
+    "Modulo 1 (Ciancarini)/PPT/13 pm.pdf",
+    "DUBBI.md",
     "Modulo 1 (Ciancarini)/2. Processi di sviluppo agili.md",
     "Modulo 1 (Ciancarini)/1. Il software e l'ingegneria del software.md",
-    "Corso Ingegneria del Software.md",
     "Modulo 1 (Ciancarini).md",
-    "images2/Screenshot 2025-11-10 alle 14.44.49.png",
-    "images2/Screenshot 2025-11-10 alle 14.44.53.png",
-    "images2/Screenshot 2025-11-10 alle 14.21.59.png",
-    "images2/Screenshot 2025-10-29 alle 10.58.00.png",
-    "images2/Screenshot 2025-11-10 alle 12.22.24.png",
-    "images2/Screenshot 2025-11-10 alle 12.21.53.png",
-    "images2/Screenshot 2025-11-10 alle 12.21.19.png",
-    "images2/Screenshot 2025-11-10 alle 12.20.46.png",
-    "images2/Screenshot 2025-11-10 alle 12.20.11.png",
     "Modulo 1 (Ciancarini)/4. Project management dei progetti software.md",
     "Modulo 1 (Ciancarini)/3. L'analisi dei requisiti software.md",
     "TagsRoutes/logMessage.md",
@@ -222,7 +222,6 @@
     "Modulo 2 (Succi)",
     "cartella senza nome",
     "Modulo 1 (Ciancarini)",
-    "Modulo 1 (Ciancarini)/PPT/13 pm.pdf",
     "Modulo 1 (Ciancarini)/PPT",
     "Excalidraw/Drawing 2025-11-06 17.12.21.excalidraw.md",
     "Excalidraw",
