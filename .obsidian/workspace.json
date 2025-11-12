@@ -13,16 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modulo 2 (Succi)/2. IS.L01.P1.md",
+                "file": "Modulo 2 (Succi)/3. IS.L01.P2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. IS.L01.P1"
+              "title": "3. IS.L01.P2"
             }
           },
           {
             "id": "68da0494d96b30b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GLOSSARIO.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GLOSSARIO"
+            }
+          },
+          {
+            "id": "208fddbd2d0e8275",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,7 +49,8 @@
               "title": "GLOSSARIO"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modulo 2 (Succi)/2. IS.L01.P1.md",
+                "file": "GLOSSARIO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2. IS.L01.P1"
+              "title": "Backlinks for GLOSSARIO"
             }
           },
           {
@@ -185,8 +200,16 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "d72b9c0cc57fb7c6",
+  "active": "4aac7954d99deb8a",
   "lastOpenFiles": [
+    "Modulo 2 (Succi).md",
+    "Glossario2.md",
+    "GLOSSARIO.md",
+    "Corso Ingegneria del Software.md",
+    "Modulo 2 (Succi)/3. IS.L01.P2.md",
+    "Modulo 2 (Succi)/2. IS.L01.P1.md",
+    "Modulo 1 (Ciancarini).md",
+    "Modulo 2 (Succi)/1. IS.L00.Program.md",
     "images2/Screenshot 2025-11-12 alle 11.54.30.png",
     "images2/Screenshot 2025-11-12 alle 11.53.46.png",
     "images2/Screenshot 2025-11-12 alle 11.52.15.png",
@@ -196,25 +219,18 @@
     "images2/Screenshot 2025-11-12 alle 11.33.41.png",
     "images2/Screenshot 2025-11-03 alle 10.53.38.png",
     "images2/Screenshot 2025-11-12 alle 11.26.54.png",
-    "GLOSSARIO.md",
     "Modulo 2 (Succi)/Generalization VS Extension.md",
-    "Modulo 2 (Succi)/2. IS.L01.P1.md",
     "images2/Screenshot 2025-11-12 alle 11.09.47.png",
-    "images2/Screenshot 2025-11-12 alle 11.09.29.png",
-    "Modulo 2 (Succi)/1. IS.L00.Program.md",
     "Modulo 2 (Succi)/Classe vs Tipo.md",
-    "Corso Ingegneria del Software.md",
     "Modulo 1 (Ciancarini)/PPT/13 pm.pdf",
     "DUBBI.md",
     "Modulo 1 (Ciancarini)/2. Processi di sviluppo agili.md",
     "Modulo 1 (Ciancarini)/1. Il software e l'ingegneria del software.md",
-    "Modulo 1 (Ciancarini).md",
     "Modulo 1 (Ciancarini)/4. Project management dei progetti software.md",
     "Modulo 1 (Ciancarini)/3. L'analisi dei requisiti software.md",
     "TagsRoutes/logMessage.md",
     "TagsRoutes/logs",
     "TagsRoutes",
-    "Modulo 2 (Succi).md",
     "Untitled.canvas",
     "2025-11-07.md",
     "Modulo 2 (Succi)/PPT",
