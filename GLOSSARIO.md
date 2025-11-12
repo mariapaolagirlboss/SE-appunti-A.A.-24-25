@@ -20,6 +20,7 @@
 ## F
 
 ## G
+- **GUI**: un tipo di interfaccia utente che consente l'interazione uomo-macchina in modo visuale utilizzando rappresentazioni grafiche (es. widget) piuttosto che utilizzando i comandi tipici di un'interfaccia a riga di comando (es. shell e front end)
 
 ## H
 
