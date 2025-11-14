@@ -219,7 +219,7 @@
     "colorDepth": 1,
     "resizeMode": "Height",
     "desiredWidth": 800,
-    "desiredHeight": 210,
+    "desiredHeight": 300,
     "desiredLongestEdge": 1000,
     "enlargeOrReduce": "Auto",
     "allowLargerFiles": false,

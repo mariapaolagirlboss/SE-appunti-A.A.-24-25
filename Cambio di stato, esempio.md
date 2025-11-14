@@ -4,3 +4,4 @@
 | ![[Screenshot 2025-11-12 alle 16.32.10.png\|558x345]]                                                                                                              | ![[Screenshot 2025-11-12 alle 16.41.02.png\|329x380]]                                                                                               |
 | Mostra solo le transizioni **da ok a overdrafted e vicervesa**                                                                                                     | Aggiunge **loop**                                                                                                                                   |
 | Si presume che **se un evento è possibile in uno stato ma non è disegnato, lo stato non cambia** o, in un modello più rigoroso, l'evento potrebbe essere ignorato. | Rappresentazione **più accurata e completa**, mostra che un evento ricevuto (messaggio) **non sempre porta a una transizione verso un altro stato** |
+
